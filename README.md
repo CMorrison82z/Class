@@ -1,2 +1,2 @@
 # ClassCreate
- Simple implementation of OOP in LUA
+ Simple implementation of OOP in LUA for use in Roblox
